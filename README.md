@@ -1,4 +1,4 @@
 Role Playing Game - Dragon Repeller
 
-Dragon Repeller é um jogo RPG criado utilizando as tecnologias HTML, CSS e JavaScript!
-Desenvolvido ao longo dos meus estudos de javascript na plataforma do freecodecamp.
+EN: Dragon Repeller is an RPG that I developed while learning the basics of JavaScript through freecodecamp.
+BR: Dragon Repeller é um RPG que desenvolvi enquanto aprendia o básico de JavaScript pelo FreeCodeCamp.
